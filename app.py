@@ -1,9 +1,7 @@
-import streamlit as st 
-
-st.set_page_config( page_title ="My coding journy" , layout = 'wide' )
+import streamlit as st
+st.set_page_config (page_title =" my coding journy" , layout = "wide")
 
 from streamlit_option_menu import option_menu
-
 
 
 st.subheader("A grade 8 student that want to be a Software engineer")
@@ -18,7 +16,6 @@ st.write('Hello I am Erodiya Fikadu a 13 year old who made this web page')
 st. write("If you think this is cool and you want to be a software engineer just like me wait till you know more")
 
 st.write(' in whis website you will know about each types of softwares , I will over the to main ones')
-
 with st.container():
 
     st.write('---')
@@ -56,9 +53,19 @@ with st.sidebar:
      st.title(f"A web developer is a builder that makes websites just like this one it is divided into 2 front end and back end developing , front end is basicly what the yor sees and can intreact ; back end is what the users data is placed and stored eg: your elearning account is saved in the back and when ever you login you tell your computer to give you what ever you saved ; the cobination of those to is called fullstack developer also they earn 60,000$-120,000% yearly , 18,000-35,000 ETB")
     orientation="horizontal",
     
+
+
+    
+
+
+
+
+
+
+
+
  
         
     
 
                     
-            
